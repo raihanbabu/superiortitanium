@@ -1,0 +1,6 @@
+https://github.com/raihanbabu/superiortitanium
+
+
+https://velocity.apache.org/engine/devel/user-guide.html
+https://ultracart.atlassian.net/wiki/spaces/ucdoc/pages/1377317/The+StoreFront+Template+Language
+https://ultracart.atlassian.net/wiki/spaces/ucdoc/pages/1377577/StoreFront+Developers
